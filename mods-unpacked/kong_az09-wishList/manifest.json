@@ -1,0 +1,21 @@
+{
+    "name": "wishList",
+    "namespace": "kong_az09",
+    "version_number": "0.1.0",
+    "description": "愿望单mod：在难度选择屏底部添加愿望单入口按钮，点开后可以在 10 个槽位里保存/改名/清空愿望单。",
+    "website_url": "",
+    "dependencies": [],
+    "extra": {
+        "godot": {
+            "authors": [
+                "kong_az09"
+            ],
+            "compatible_mod_loader_version": [
+                "6.3.0"
+            ],
+            "compatible_game_version": [
+                "1.1.15.4"
+            ]
+        }
+    }
+}
